@@ -5,6 +5,10 @@ target/
 *.ear
 *.zip
 *.tar.gz
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
 
 # IDEs
 .idea/
@@ -12,17 +16,36 @@ target/
 *.iml
 *.iws
 *.ipr
-.DS_Store
+*.class
+*.classpath
+.project
+.settings/
 
 # Build
 build/
 dist/
 *.class
+*.o
+*.so
 
 # Logs
 logs/
 *.log
+*.log.*
 
 # OS
 .DS_Store
 Thumbs.db
+.AppleDouble
+.LSOverride
+
+# IDE specific
+*.swp
+*.swo
+*~
+.vscode/settings.json
+
+# Database files
+*.db
+*.sqlite
+data/
