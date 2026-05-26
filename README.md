@@ -242,7 +242,7 @@ This is a learning project. Contributions, suggestions, and discussions are welc
 
 ## Author
 
-**Aatheya** - B.Tech CSE (4th Year)
+**Aadhiya** - B.Tech CSE Nirma Univerity (2027)
 
 ## Questions & Support
 
